@@ -1,0 +1,12 @@
+/*
+Median of two sorted arrays of same size
+
+Input:
+ar1[] = {1, 12, 15, 26, 38}
+ar2[] = {2, 13, 17, 30, 45}
+Output:
+16
+Explanation:
+Middle two elements are 15 and 17 Average of middle elements is (15 + 17) / 2 which is equal to 16
+
+*/

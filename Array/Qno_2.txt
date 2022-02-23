@@ -1,0 +1,14 @@
+/*
+Find the maximum and minimum element in an array
+
+Write a function to return minimum and maximum in an array. Your program should make the minimum number of comparisons. 
+
+Example :
+
+int arr[] = { 1000, 11, 445, 1, 330, 3000 };
+int arr_size = 6;
+ 
+Output: 
+Minimum element is 1
+Maximum element is 3000
+*/
